@@ -10,9 +10,9 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rifk.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmrifkifauzan/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@rifk.dev)
 
 </div>
 
@@ -36,13 +36,17 @@ That's why I value structured learning, professional certifications, and hands-o
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 | Area | Technologies |
-| :-- | :-- |
+| :-: | :-: |
 | **Languages** | JavaScript · TypeScript · HTML · CSS |
 | **Frontend** | React · Next.js · Tailwind CSS · shadcn/ui |
 | **State & Validation** | Zustand · Zod |
 | **Backend & Database** | Prisma · Supabase · SQL · REST APIs |
 | **Tools** | Git · GitHub · VS Code |
+
+</div>
 
 <div align="center">
 
@@ -82,8 +86,8 @@ I'm not just interested in making things work. I want to understand:
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Kipaw&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kipaw&layout=compact&theme=transparent&hide_border=true)
 
 </div>
 
@@ -93,7 +97,7 @@ I'm not just interested in making things work. I want to understand:
 
 <div align="center">
 
-[**Portfolio**](https://your-portfolio-url.com) · [**LinkedIn**](https://linkedin.com/in/your-linkedin) · [**Email**](mailto:your-email@example.com)
+[**Portfolio**](https://rifk.dev) · [**LinkedIn**](https://www.linkedin.com/in/rmrifkifauzan/) · [**Email**](mailto:contact@rifk.dev)
 
 <br />
 
