@@ -86,8 +86,8 @@ I'm not just interested in making things work. I want to understand:
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Kipaw&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kipaw&layout=compact&theme=transparent&hide_border=true)
+![Stats](https://github-readme-stats-rosy-ten-92.vercel.app/api?username=Kipaw&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats-rosy-ten-92.vercel.app/api/top-langs/?username=Kipaw&layout=compact&theme=transparent&hide_border=true)
 
 </div>
 
